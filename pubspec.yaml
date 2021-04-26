@@ -1,8 +1,8 @@
 name: package_example
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Sulaeman
+homepage: https://github.com/sulaemansantoso/flutter_package_example.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
